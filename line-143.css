@@ -1,0 +1,9 @@
+.line-div8 {
+  width: 100%;
+  position: relative;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  height: 1px;
+  transform: rotate(134.7deg);
+  transform-origin: 0 0;
+}

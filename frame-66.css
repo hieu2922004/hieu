@@ -1,0 +1,27 @@
+.contact77,
+.contact78 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.contact78 {
+  left: 146px;
+  color: var(--color-gray-400);
+}
+.contact-parent33 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 262px;
+  height: 29px;
+}
+.group-parent176 {
+  width: 100%;
+  position: relative;
+  height: 35px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

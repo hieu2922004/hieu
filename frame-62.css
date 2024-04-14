@@ -1,0 +1,28 @@
+.home9 {
+  left: 0;
+}
+.home-parent2,
+.home10,
+.home9 {
+  position: absolute;
+  top: 0;
+}
+.home10 {
+  left: 105px;
+  color: var(--color-gray-300);
+}
+.home-parent2 {
+  left: 0;
+  width: 179px;
+  height: 29px;
+}
+.group-parent8 {
+  width: 100%;
+  position: relative;
+  height: 35px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

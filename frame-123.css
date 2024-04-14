@@ -1,0 +1,13 @@
+.instance-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 80px;
+  height: 26px;
+}
+.group-parent218 {
+  width: 100%;
+  position: relative;
+  height: 31px;
+  overflow: hidden;
+}

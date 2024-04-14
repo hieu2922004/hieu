@@ -1,0 +1,25 @@
+.male-user-icon86,
+.male-user-icon87 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 26px;
+  height: 26px;
+  object-fit: cover;
+}
+.male-user-icon87 {
+  left: 55px;
+}
+.male-user-parent41 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 81px;
+  height: 26px;
+}
+.group-parent219 {
+  width: 100%;
+  position: relative;
+  height: 31px;
+  overflow: hidden;
+}
